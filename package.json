@@ -23,7 +23,7 @@
     "continuation-local-storage": "~2.4.3"
   },
   "devDependencies": {
-    "express": "~3.4.3",
+    "express": "~4.17.1",
     "tap": "~0.4.4",
     "request": "~2.27.0"
   }
